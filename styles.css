@@ -1,0 +1,31 @@
+
+body {
+  font-family: Arial, sans-serif;
+  color: #fff;
+  background-color: #222;
+  margin: 0;
+  padding: 20px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.separator {
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+  }
+}

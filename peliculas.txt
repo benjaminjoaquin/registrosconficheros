@@ -1,0 +1,40 @@
+1
+Avengers Civil War
+Super Heroes
+2015
+avengers3.jpg
+2
+Sonic
+Fantasia
+2017
+sonic.jpg
+3
+El exorcista
+Terror
+2000
+the exorcist.jpg
+4
+Wonder Woman
+Super Heroes
+2019
+wonderwoman.jpg
+5
+Pelicula random
+Comedia
+2022
+usuario.jpg
+6
+Scooby doo
+Comedia
+2000
+scoobydoo.jpg
+7
+El conjuro
+Terror
+2021
+usuario.jpg
+8
+Alien
+Ciencia ficcion
+2015
+usuario.jpg
